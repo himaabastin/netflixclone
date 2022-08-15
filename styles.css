@@ -1,0 +1,252 @@
+.button-style{
+    float:right;
+        padding: 10px;
+        width:104px;
+        background: red;
+        color:white;
+        font-size:medium;
+        font-family: Arial, Helvetica, sans-serif;
+        border-color:red;
+        margin-top: 12px;
+        margin-right: 37px;
+        border-radius: 5px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: black ;
+} 
+header h1{
+    padding-left:0px;
+    color:white;
+    font-weight: 700;
+    font-size: 64px;
+    text-align: center;
+    
+}
+header h3{
+
+  margin-top: 13px;
+  margin-bottom: 29px;
+    padding-left:0px;
+    font-weight: lighter;
+    font-size: 26px;
+    color:white;
+    text-align: center;
+}
+header p{
+
+    
+    padding-left:0px;
+    font-weight:300px;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+}
+header
+    img{
+    width:14%;
+}
+.showcase{
+    width:100%;
+    height:75vh;;
+    background-image:url("background.jpg");
+        
+}
+.start-button{
+margin-right: 50px;
+    padding:19px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:#c9040e;
+    color:white;
+    border:red;
+    cursor: pointer;
+    text-align: center;
+    border-width: 4px;
+    border: #fa260f;
+    margin-left:-1;
+}
+.start-button:hover{
+    background:#fa260f;
+}
+
+  
+ .section-1{
+    width: 100%;
+    height:60vh;
+    border-top:#454745 solid;
+    border-width: 7px;
+ }
+
+
+ .section-2{
+    width: 100%;
+    height: 50vh;
+    border-top:#454745 solid;
+    border-width: 7px;
+ }
+
+ .section-3{
+    width: 100%;
+    height: 50vh;
+    border-top:#454745 solid;
+    border-width: 7px;
+    color: white;
+ }
+ .section-4{
+    width: 100%;
+    height: 50vh;
+    border-top:#454745 solid;
+    border-width: 7px;
+ }
+ .tv-1{
+    padding-left:1010px;
+   
+    
+ }
+ .section1text1{
+    color:white;
+    size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    margin-left: 289px;
+    margin-top: 100px;
+ }
+ .section1txt2{
+    color:white;
+    size: 20px;
+    font-weight:lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:27px;
+    margin-left: 289px;
+    margin-top:40px;
+ }
+ .section2text1{
+    color:white;
+    size: 20px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:48px;
+    margin-left: 289px;
+    margin-top:40px;
+    padding-left:509px;
+ }
+ .section2txt2{
+   color:white;
+   size: 20px;
+   font-weight:lighter;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:27px;
+   margin-left: 289px;
+   margin-top:20px;
+   padding-left:509px;
+}
+ .section3text1{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 49px;
+    margin-left: 289px;
+    margin-top: 1px;
+
+    
+   
+ }
+ .section3txt2{
+   color:white;
+   size: 20px;
+   font-weight:lighter;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:27px;
+   margin-left: 289px;
+   margin-top:15px;
+   padding-left:1px;
+}
+
+ .section4text1{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    margin-left: 289px;
+    margin-top: 100px;
+
+    
+   
+ }
+ .section4txt2{
+   color:white;
+   size: 20px;
+   font-weight:lighter;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:27px;
+   margin-left: 289px;
+   margin-top:20px;
+   padding-left:509px;
+}
+.faq-text{
+   color: white;
+   font-size:45px;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   border-top:#454745 solid;
+    border-width: 7px;
+   padding-top: 64px;
+}
+.faq{
+   text-align: center;
+}
+.questions li{
+   margin: 8px;
+font-size: 30px;
+padding: 20px ;
+background-color:#3e3d3d;
+text-align:left;
+width:48%;
+list-style: none;
+margin-left:366px;
+}
+ 
+    
+
+.faq p{
+   color: white;
+   padding-top: 50px;
+   font-size: 22px;
+   font-weight: lighter;
+   font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.footer-cols{
+
+   color: rgb(97, 95, 95);
+   padding: 100px;
+
+}
+
+
+.footer ,
+.footer a{
+   color: #999999;
+   font-size: 0.9rem;
+}
+
+.footer p{
+   margin-top:20px;
+   padding-top: 50px;
+}
+
+.footer .footer-cols{
+   display: grid;
+   grid-template-columns: repeat(4 , 1fr);
+   grid-gap: 2rem;
+}
+
+.footer li{
+   line-height: 2.4;
+   list-style:none;
+   text-decoration:none;
+}
